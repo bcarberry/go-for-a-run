@@ -1,0 +1,13 @@
+body {
+	background-color: #F72CE2;
+	color: #FFF;
+	margin: 0 auto;
+	font-family: Verdana, sans-serif;
+	font-size: 7em;
+	text-transform: uppercase;
+}
+
+div {
+	max-width: 470px;
+	margin: 0 auto;
+}
